@@ -1,0 +1,3 @@
+364.csv,<class 'clases.Carga'>,"{'marca': 'chinchan', 'modelo': 'camion', 'numero_ruedas': 6, 'velocidad': 100, 'cilindrada': 3000, 'carga': 20000}"
+743.csv,<class 'clases.Carga'>,"{'marca': 'cat', 'modelo': 'tractor', 'numero_ruedas': 8, 'velocidad': 500, 'cilindrada': 4000, 'carga': 20000000}"
+358.csv,<class 'clases.Carga'>,"{'marca': 'mcklaren', 'modelo': 'camioneta', 'numero_ruedas': 3, 'velocidad': 100, 'cilindrada': 4000, 'carga': 200}"

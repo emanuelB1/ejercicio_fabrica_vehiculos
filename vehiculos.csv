@@ -1,0 +1,8 @@
+813.csv,<class 'clases.Automovil'>,"{'marca': 'ford', 'modelo': 'mustang', 'numero_ruedas': 4, 'velocidad': 200, 'cilindrada': 4000}"
+751.csv,<class 'clases.Particular'>,"{'marca': 'toyota', 'modelo': 'pris', 'numero_ruedas': 4, 'velocidad': 100, 'cilindrada': 2000, 'numero_puestos': 4}"
+235.csv,<class 'clases.Particular'>,"{'marca': 'audi', 'modelo': 'charade', 'numero_ruedas': 4, 'velocidad': 399, 'cilindrada': 5000, 'numero_puestos': 2}"
+364.csv,<class 'clases.Carga'>,"{'marca': 'chinchan', 'modelo': 'camion', 'numero_ruedas': 6, 'velocidad': 100, 'cilindrada': 3000, 'carga': 20000}"
+743.csv,<class 'clases.Carga'>,"{'marca': 'cat', 'modelo': 'tractor', 'numero_ruedas': 8, 'velocidad': 500, 'cilindrada': 4000, 'carga': 20000000}"
+358.csv,<class 'clases.Carga'>,"{'marca': 'mcklaren', 'modelo': 'camioneta', 'numero_ruedas': 3, 'velocidad': 100, 'cilindrada': 4000, 'carga': 200}"
+269.csv,<class 'clases.Bicicleta'>,"{'marca': 'bianchi', 'modelo': 'montanbike', 'numero_ruedas': 2, 'tipo': 'Urbana'}"
+518.csv,<class 'clases.Motocicleta'>,"{'marca': 'kawasaki', 'modelo': 'ninja', 'numero_ruedas': 2, 'tipo': 'Carrera', 'nmro_radios': 200, 'cuadro': 'shimano', 'motor': 'v10'}"
